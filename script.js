@@ -1,5 +1,4 @@
 // Write your JavaScript code here!
-import myFetch from "./scriptHelper.js"
 
 window.addEventListener("load", function () {
   let listedPlanets;
